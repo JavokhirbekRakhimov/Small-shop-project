@@ -1,0 +1,1370 @@
+[
+  {
+    "counterCategory": 1,
+    "counterProduct": 0,
+    "counterCart": 0,
+    "deliverCart": 0
+  },
+  {
+    "counterCategory": 2,
+    "counterProduct": 0,
+    "counterCart": 0,
+    "deliverCart": 0
+  },
+  {
+    "counterCategory": 3,
+    "counterProduct": 0,
+    "counterCart": 0,
+    "deliverCart": 0
+  },
+  {
+    "counterCategory": 4,
+    "counterProduct": 0,
+    "counterCart": 0,
+    "deliverCart": 0
+  },
+  {
+    "counterCategory": 5,
+    "counterProduct": 0,
+    "counterCart": 0,
+    "deliverCart": 0
+  },
+  {
+    "counterCategory": 6,
+    "counterProduct": 0,
+    "counterCart": 0,
+    "deliverCart": 0
+  },
+  {
+    "counterCategory": 7,
+    "counterProduct": 0,
+    "counterCart": 0,
+    "deliverCart": 0
+  },
+  {
+    "counterCategory": 8,
+    "counterProduct": 0,
+    "counterCart": 0,
+    "deliverCart": 0
+  },
+  {
+    "counterCategory": 8,
+    "counterProduct": 1,
+    "counterCart": 0,
+    "deliverCart": 0
+  },
+  {
+    "counterCategory": 8,
+    "counterProduct": 1,
+    "counterCart": 1,
+    "deliverCart": 0
+  },
+  {
+    "counterCategory": 8,
+    "counterProduct": 1,
+    "counterCart": 2,
+    "deliverCart": 0
+  },
+  {
+    "counterCategory": 8,
+    "counterProduct": 1,
+    "counterCart": 3,
+    "deliverCart": 0
+  },
+  {
+    "counterCategory": 8,
+    "counterProduct": 1,
+    "counterCart": 1,
+    "deliverCart": 0
+  },
+  {
+    "counterCategory": 8,
+    "counterProduct": 1,
+    "counterCart": 1,
+    "deliverCart": 0
+  },
+  {
+    "counterCategory": 8,
+    "counterProduct": 1,
+    "counterCart": 1,
+    "deliverCart": 0
+  },
+  {
+    "counterCategory": 8,
+    "counterProduct": 1,
+    "counterCart": 1,
+    "deliverCart": 0
+  },
+  {
+    "counterCategory": 8,
+    "counterProduct": 2,
+    "counterCart": 1,
+    "deliverCart": 0
+  },
+  {
+    "counterCategory": 8,
+    "counterProduct": 2,
+    "counterCart": 0,
+    "deliverCart": 0
+  },
+  {
+    "counterCategory": 8,
+    "counterProduct": 2,
+    "counterCart": 1,
+    "deliverCart": 0
+  },
+  {
+    "counterCategory": 8,
+    "counterProduct": 2,
+    "counterCart": 1,
+    "deliverCart": 0
+  },
+  {
+    "counterCategory": 8,
+    "counterProduct": 2,
+    "counterCart": 2,
+    "deliverCart": 0
+  },
+  {
+    "counterCategory": 8,
+    "counterProduct": 2,
+    "counterCart": 2,
+    "deliverCart": 0
+  },
+  {
+    "counterCategory": 8,
+    "counterProduct": 2,
+    "counterCart": 2,
+    "deliverCart": 0
+  },
+  {
+    "counterCategory": 8,
+    "counterProduct": 2,
+    "counterCart": 2,
+    "deliverCart": 0
+  },
+  {
+    "counterCategory": 8,
+    "counterProduct": 2,
+    "counterCart": 0,
+    "deliverCart": 0
+  },
+  {
+    "counterCategory": 8,
+    "counterProduct": 2,
+    "counterCart": 1,
+    "deliverCart": 0
+  },
+  {
+    "counterCategory": 8,
+    "counterProduct": 2,
+    "counterCart": 2,
+    "deliverCart": 0
+  },
+  {
+    "counterCategory": 8,
+    "counterProduct": 2,
+    "counterCart": 2,
+    "deliverCart": 0
+  },
+  {
+    "counterCategory": 8,
+    "counterProduct": 2,
+    "counterCart": 0,
+    "deliverCart": 0
+  },
+  {
+    "counterCategory": 8,
+    "counterProduct": 3,
+    "counterCart": 0,
+    "deliverCart": 0
+  },
+  {
+    "counterCategory": 8,
+    "counterProduct": 3,
+    "counterCart": 1,
+    "deliverCart": 0
+  },
+  {
+    "counterCategory": 8,
+    "counterProduct": 3,
+    "counterCart": 1,
+    "deliverCart": 0
+  },
+  {
+    "counterCategory": 8,
+    "counterProduct": 4,
+    "counterCart": 1,
+    "deliverCart": 0
+  },
+  {
+    "counterCategory": 8,
+    "counterProduct": 5,
+    "counterCart": 1,
+    "deliverCart": 0
+  },
+  {
+    "counterCategory": 8,
+    "counterProduct": 6,
+    "counterCart": 1,
+    "deliverCart": 0
+  },
+  {
+    "counterCategory": 8,
+    "counterProduct": 7,
+    "counterCart": 1,
+    "deliverCart": 0
+  },
+  {
+    "counterCategory": 8,
+    "counterProduct": 8,
+    "counterCart": 1,
+    "deliverCart": 0
+  },
+  {
+    "counterCategory": 8,
+    "counterProduct": 9,
+    "counterCart": 0,
+    "deliverCart": 0
+  },
+  {
+    "counterCategory": 8,
+    "counterProduct": 9,
+    "counterCart": 1,
+    "deliverCart": 0
+  },
+  {
+    "counterCategory": 8,
+    "counterProduct": 9,
+    "counterCart": 2,
+    "deliverCart": 0
+  },
+  {
+    "counterCategory": 8,
+    "counterProduct": 9,
+    "counterCart": 3,
+    "deliverCart": 0
+  },
+  {
+    "counterCategory": 8,
+    "counterProduct": 9,
+    "counterCart": 3,
+    "deliverCart": 1
+  },
+  {
+    "counterCategory": 8,
+    "counterProduct": 9,
+    "counterCart": 0,
+    "deliverCart": 1
+  },
+  {
+    "counterCategory": 8,
+    "counterProduct": 9,
+    "counterCart": 1,
+    "deliverCart": 1
+  },
+  {
+    "counterCategory": 8,
+    "counterProduct": 9,
+    "counterCart": 2,
+    "deliverCart": 1
+  },
+  {
+    "counterCategory": 8,
+    "counterProduct": 9,
+    "counterCart": 2,
+    "deliverCart": 2
+  },
+  {
+    "counterCategory": 8,
+    "counterProduct": 9,
+    "counterCart": 0,
+    "deliverCart": 2
+  },
+  {
+    "counterCategory": 8,
+    "counterProduct": 9,
+    "counterCart": 1,
+    "deliverCart": 2
+  },
+  {
+    "counterCategory": 8,
+    "counterProduct": 9,
+    "counterCart": 1,
+    "deliverCart": 2
+  },
+  {
+    "counterCategory": 8,
+    "counterProduct": 9,
+    "counterCart": 1,
+    "deliverCart": 2
+  },
+  {
+    "counterCategory": 8,
+    "counterProduct": 9,
+    "counterCart": 2,
+    "deliverCart": 2
+  },
+  {
+    "counterCategory": 8,
+    "counterProduct": 9,
+    "counterCart": 2,
+    "deliverCart": 2
+  },
+  {
+    "counterCategory": 8,
+    "counterProduct": 9,
+    "counterCart": 2,
+    "deliverCart": 3
+  },
+  {
+    "counterCategory": 8,
+    "counterProduct": 9,
+    "counterCart": 0,
+    "deliverCart": 3
+  },
+  {
+    "counterCategory": 8,
+    "counterProduct": 10,
+    "counterCart": 0,
+    "deliverCart": 3
+  },
+  {
+    "counterCategory": 8,
+    "counterProduct": 10,
+    "counterCart": 1,
+    "deliverCart": 3
+  },
+  {
+    "counterCategory": 8,
+    "counterProduct": 10,
+    "counterCart": 1,
+    "deliverCart": 4
+  },
+  {
+    "counterCategory": 8,
+    "counterProduct": 10,
+    "counterCart": 0,
+    "deliverCart": 4
+  },
+  {
+    "counterCategory": 8,
+    "counterProduct": 10,
+    "counterCart": 1,
+    "deliverCart": 4
+  },
+  {
+    "counterCategory": 8,
+    "counterProduct": 10,
+    "counterCart": 2,
+    "deliverCart": 4
+  },
+  {
+    "counterCategory": 8,
+    "counterProduct": 10,
+    "counterCart": 2,
+    "deliverCart": 5
+  },
+  {
+    "counterCategory": 8,
+    "counterProduct": 10,
+    "counterCart": 1,
+    "deliverCart": 5
+  },
+  {
+    "counterCategory": 9,
+    "counterProduct": 10,
+    "counterCart": 1,
+    "deliverCart": 5
+  },
+  {
+    "counterCategory": 9,
+    "counterProduct": 10,
+    "counterCart": 1,
+    "deliverCart": 5
+  },
+  {
+    "counterCategory": 10,
+    "counterProduct": 10,
+    "counterCart": 1,
+    "deliverCart": 5
+  },
+  {
+    "counterCategory": 10,
+    "counterProduct": 10,
+    "counterCart": 1,
+    "deliverCart": 5
+  },
+  {
+    "counterCategory": 11,
+    "counterProduct": 10,
+    "counterCart": 1,
+    "deliverCart": 5
+  },
+  {
+    "counterCategory": 11,
+    "counterProduct": 10,
+    "counterCart": 1,
+    "deliverCart": 5
+  },
+  {
+    "counterCategory": 12,
+    "counterProduct": 10,
+    "counterCart": 1,
+    "deliverCart": 5
+  },
+  {
+    "counterCategory": 12,
+    "counterProduct": 10,
+    "counterCart": 1,
+    "deliverCart": 5
+  },
+  {
+    "counterCategory": 13,
+    "counterProduct": 10,
+    "counterCart": 1,
+    "deliverCart": 5
+  },
+  {
+    "counterCategory": 13,
+    "counterProduct": 10,
+    "counterCart": 1,
+    "deliverCart": 5
+  },
+  {
+    "counterCategory": 14,
+    "counterProduct": 10,
+    "counterCart": 1,
+    "deliverCart": 5
+  },
+  {
+    "counterCategory": 14,
+    "counterProduct": 10,
+    "counterCart": 1,
+    "deliverCart": 5
+  },
+  {
+    "counterCategory": 15,
+    "counterProduct": 10,
+    "counterCart": 1,
+    "deliverCart": 5
+  },
+  {
+    "counterCategory": 15,
+    "counterProduct": 10,
+    "counterCart": 1,
+    "deliverCart": 5
+  },
+  {
+    "counterCategory": 16,
+    "counterProduct": 10,
+    "counterCart": 1,
+    "deliverCart": 5
+  },
+  {
+    "counterCategory": 16,
+    "counterProduct": 10,
+    "counterCart": 1,
+    "deliverCart": 5
+  },
+  {
+    "counterCategory": 8,
+    "counterProduct": 11,
+    "counterCart": 1,
+    "deliverCart": 5
+  },
+  {
+    "counterCategory": 17,
+    "counterProduct": 11,
+    "counterCart": 1,
+    "deliverCart": 5
+  },
+  {
+    "counterCategory": 17,
+    "counterProduct": 11,
+    "counterCart": 1,
+    "deliverCart": 5
+  },
+  {
+    "counterCategory": 18,
+    "counterProduct": 11,
+    "counterCart": 1,
+    "deliverCart": 5
+  },
+  {
+    "counterCategory": 18,
+    "counterProduct": 11,
+    "counterCart": 1,
+    "deliverCart": 5
+  },
+  {
+    "counterCategory": 18,
+    "counterProduct": 12,
+    "counterCart": 1,
+    "deliverCart": 5
+  },
+  {
+    "counterCategory": 18,
+    "counterProduct": 13,
+    "counterCart": 1,
+    "deliverCart": 5
+  },
+  {
+    "counterCategory": 19,
+    "counterProduct": 13,
+    "counterCart": 1,
+    "deliverCart": 5
+  },
+  {
+    "counterCategory": 19,
+    "counterProduct": 13,
+    "counterCart": 1,
+    "deliverCart": 5
+  },
+  {
+    "counterCategory": 19,
+    "counterProduct": 14,
+    "counterCart": 1,
+    "deliverCart": 5
+  },
+  {
+    "counterCategory": 19,
+    "counterProduct": 14,
+    "counterCart": 2,
+    "deliverCart": 5
+  },
+  {
+    "counterCategory": 19,
+    "counterProduct": 14,
+    "counterCart": 3,
+    "deliverCart": 5
+  },
+  {
+    "counterCategory": 19,
+    "counterProduct": 14,
+    "counterCart": 3,
+    "deliverCart": 5
+  },
+  {
+    "counterCategory": 19,
+    "counterProduct": 14,
+    "counterCart": 3,
+    "deliverCart": 5
+  },
+  {
+    "counterCategory": 19,
+    "counterProduct": 15,
+    "counterCart": 3,
+    "deliverCart": 5
+  },
+  {
+    "counterCategory": 19,
+    "counterProduct": 16,
+    "counterCart": 3,
+    "deliverCart": 5
+  },
+  {
+    "counterCategory": 19,
+    "counterProduct": 16,
+    "counterCart": 4,
+    "deliverCart": 5
+  },
+  {
+    "counterCategory": 19,
+    "counterProduct": 16,
+    "counterCart": 5,
+    "deliverCart": 5
+  },
+  {
+    "counterCategory": 19,
+    "counterProduct": 16,
+    "counterCart": 5,
+    "deliverCart": 5
+  },
+  {
+    "counterCategory": 19,
+    "counterProduct": 16,
+    "counterCart": 5,
+    "deliverCart": 5
+  },
+  {
+    "counterCategory": 19,
+    "counterProduct": 16,
+    "counterCart": 5,
+    "deliverCart": 6
+  },
+  {
+    "counterCategory": 19,
+    "counterProduct": 16,
+    "counterCart": 4,
+    "deliverCart": 6
+  },
+  {
+    "counterCategory": 19,
+    "counterProduct": 16,
+    "counterCart": 6,
+    "deliverCart": 6
+  },
+  {
+    "counterCategory": 19,
+    "counterProduct": 16,
+    "counterCart": 7,
+    "deliverCart": 6
+  },
+  {
+    "counterCategory": 19,
+    "counterProduct": 16,
+    "counterCart": 7,
+    "deliverCart": 6
+  },
+  {
+    "counterCategory": 19,
+    "counterProduct": 16,
+    "counterCart": 8,
+    "deliverCart": 6
+  },
+  {
+    "counterCategory": 19,
+    "counterProduct": 16,
+    "counterCart": 8,
+    "deliverCart": 6
+  },
+  {
+    "counterCategory": 19,
+    "counterProduct": 16,
+    "counterCart": 8,
+    "deliverCart": 6
+  },
+  {
+    "counterCategory": 19,
+    "counterProduct": 16,
+    "counterCart": 8,
+    "deliverCart": 7
+  },
+  {
+    "counterCategory": 19,
+    "counterProduct": 16,
+    "counterCart": 8,
+    "deliverCart": 7
+  },
+  {
+    "counterCategory": 19,
+    "counterProduct": 16,
+    "counterCart": 9,
+    "deliverCart": 7
+  },
+  {
+    "counterCategory": 19,
+    "counterProduct": 16,
+    "counterCart": 9,
+    "deliverCart": 7
+  },
+  {
+    "counterCategory": 19,
+    "counterProduct": 16,
+    "counterCart": 10,
+    "deliverCart": 7
+  },
+  {
+    "counterCategory": 19,
+    "counterProduct": 16,
+    "counterCart": 10,
+    "deliverCart": 7
+  },
+  {
+    "counterCategory": 19,
+    "counterProduct": 16,
+    "counterCart": 11,
+    "deliverCart": 7
+  },
+  {
+    "counterCategory": 19,
+    "counterProduct": 16,
+    "counterCart": 12,
+    "deliverCart": 7
+  },
+  {
+    "counterCategory": 19,
+    "counterProduct": 16,
+    "counterCart": 13,
+    "deliverCart": 7
+  },
+  {
+    "counterCategory": 19,
+    "counterProduct": 16,
+    "counterCart": 13,
+    "deliverCart": 7
+  },
+  {
+    "counterCategory": 19,
+    "counterProduct": 16,
+    "counterCart": 14,
+    "deliverCart": 7
+  },
+  {
+    "counterCategory": 19,
+    "counterProduct": 16,
+    "counterCart": 15,
+    "deliverCart": 7
+  },
+  {
+    "counterCategory": 19,
+    "counterProduct": 16,
+    "counterCart": 16,
+    "deliverCart": 7
+  },
+  {
+    "counterCategory": 19,
+    "counterProduct": 16,
+    "counterCart": 16,
+    "deliverCart": 8
+  },
+  {
+    "counterCategory": 19,
+    "counterProduct": 16,
+    "counterCart": 15,
+    "deliverCart": 8
+  },
+  {
+    "counterCategory": 19,
+    "counterProduct": 16,
+    "counterCart": 17,
+    "deliverCart": 8
+  },
+  {
+    "counterCategory": 19,
+    "counterProduct": 16,
+    "counterCart": 17,
+    "deliverCart": 8
+  },
+  {
+    "counterCategory": 19,
+    "counterProduct": 16,
+    "counterCart": 18,
+    "deliverCart": 8
+  },
+  {
+    "counterCategory": 19,
+    "counterProduct": 16,
+    "counterCart": 19,
+    "deliverCart": 8
+  },
+  {
+    "counterCategory": 19,
+    "counterProduct": 16,
+    "counterCart": 20,
+    "deliverCart": 8
+  },
+  {
+    "counterCategory": 19,
+    "counterProduct": 16,
+    "counterCart": 21,
+    "deliverCart": 8
+  },
+  {
+    "counterCategory": 19,
+    "counterProduct": 16,
+    "counterCart": 22,
+    "deliverCart": 8
+  },
+  {
+    "counterCategory": 19,
+    "counterProduct": 16,
+    "counterCart": 22,
+    "deliverCart": 8
+  },
+  {
+    "counterCategory": 19,
+    "counterProduct": 16,
+    "counterCart": 22,
+    "deliverCart": 8
+  },
+  {
+    "counterCategory": 19,
+    "counterProduct": 16,
+    "counterCart": 22,
+    "deliverCart": 8
+  },
+  {
+    "counterCategory": 19,
+    "counterProduct": 16,
+    "counterCart": 22,
+    "deliverCart": 8
+  },
+  {
+    "counterCategory": 19,
+    "counterProduct": 16,
+    "counterCart": 22,
+    "deliverCart": 8
+  },
+  {
+    "counterCategory": 19,
+    "counterProduct": 16,
+    "counterCart": 22,
+    "deliverCart": 9
+  },
+  {
+    "counterCategory": 19,
+    "counterProduct": 16,
+    "counterCart": 21,
+    "deliverCart": 9
+  },
+  {
+    "counterCategory": 19,
+    "counterProduct": 16,
+    "counterCart": 22,
+    "deliverCart": 8
+  },
+  {
+    "counterCategory": 19,
+    "counterProduct": 17,
+    "counterCart": 22,
+    "deliverCart": 8
+  },
+  {
+    "counterCategory": 19,
+    "counterProduct": 17,
+    "counterCart": 23,
+    "deliverCart": 8
+  },
+  {
+    "counterCategory": 19,
+    "counterProduct": 17,
+    "counterCart": 24,
+    "deliverCart": 8
+  },
+  {
+    "counterCategory": 19,
+    "counterProduct": 17,
+    "counterCart": 25,
+    "deliverCart": 8
+  },
+  {
+    "counterCategory": 19,
+    "counterProduct": 17,
+    "counterCart": 25,
+    "deliverCart": 8
+  },
+  {
+    "counterCategory": 19,
+    "counterProduct": 17,
+    "counterCart": 25,
+    "deliverCart": 9
+  },
+  {
+    "counterCategory": 19,
+    "counterProduct": 17,
+    "counterCart": 24,
+    "deliverCart": 9
+  },
+  {
+    "counterCategory": 19,
+    "counterProduct": 17,
+    "counterCart": 25,
+    "deliverCart": 9
+  },
+  {
+    "counterCategory": 19,
+    "counterProduct": 17,
+    "counterCart": 25,
+    "deliverCart": 9
+  },
+  {
+    "counterCategory": 19,
+    "counterProduct": 17,
+    "counterCart": 25,
+    "deliverCart": 9
+  },
+  {
+    "counterCategory": 19,
+    "counterProduct": 17,
+    "counterCart": 25,
+    "deliverCart": 10
+  },
+  {
+    "counterCategory": 19,
+    "counterProduct": 17,
+    "counterCart": 24,
+    "deliverCart": 10
+  },
+  {
+    "counterCategory": 19,
+    "counterProduct": 17,
+    "counterCart": 26,
+    "deliverCart": 10
+  },
+  {
+    "counterCategory": 20,
+    "counterProduct": 17,
+    "counterCart": 26,
+    "deliverCart": 10
+  },
+  {
+    "counterCategory": 20,
+    "counterProduct": 17,
+    "counterCart": 26,
+    "deliverCart": 10
+  },
+  {
+    "counterCategory": 21,
+    "counterProduct": 17,
+    "counterCart": 26,
+    "deliverCart": 10
+  },
+  {
+    "counterCategory": 21,
+    "counterProduct": 17,
+    "counterCart": 26,
+    "deliverCart": 10
+  },
+  {
+    "counterCategory": 21,
+    "counterProduct": 18,
+    "counterCart": 26,
+    "deliverCart": 10
+  },
+  {
+    "counterCategory": 21,
+    "counterProduct": 19,
+    "counterCart": 26,
+    "deliverCart": 10
+  },
+  {
+    "counterCategory": 21,
+    "counterProduct": 19,
+    "counterCart": 26,
+    "deliverCart": 10
+  },
+  {
+    "counterCategory": 21,
+    "counterProduct": 20,
+    "counterCart": 26,
+    "deliverCart": 10
+  },
+  {
+    "counterCategory": 21,
+    "counterProduct": 20,
+    "counterCart": 26,
+    "deliverCart": 10
+  },
+  {
+    "counterCategory": 21,
+    "counterProduct": 20,
+    "counterCart": 27,
+    "deliverCart": 10
+  },
+  {
+    "counterCategory": 22,
+    "counterProduct": 18,
+    "counterCart": 27,
+    "deliverCart": 10
+  },
+  {
+    "counterCategory": 22,
+    "counterProduct": 18,
+    "counterCart": 27,
+    "deliverCart": 10
+  },
+  {
+    "counterCategory": 23,
+    "counterProduct": 18,
+    "counterCart": 27,
+    "deliverCart": 10
+  },
+  {
+    "counterCategory": 23,
+    "counterProduct": 18,
+    "counterCart": 27,
+    "deliverCart": 10
+  },
+  {
+    "counterCategory": 23,
+    "counterProduct": 18,
+    "counterCart": 28,
+    "deliverCart": 10
+  },
+  {
+    "counterCategory": 23,
+    "counterProduct": 18,
+    "counterCart": 28,
+    "deliverCart": 10
+  },
+  {
+    "counterCategory": 23,
+    "counterProduct": 18,
+    "counterCart": 28,
+    "deliverCart": 10
+  },
+  {
+    "counterCategory": 23,
+    "counterProduct": 18,
+    "counterCart": 29,
+    "deliverCart": 10
+  },
+  {
+    "counterCategory": 23,
+    "counterProduct": 18,
+    "counterCart": 29,
+    "deliverCart": 10
+  },
+  {
+    "counterCategory": 23,
+    "counterProduct": 18,
+    "counterCart": 0,
+    "deliverCart": 10
+  },
+  {
+    "counterCategory": 23,
+    "counterProduct": 18,
+    "counterCart": 1,
+    "deliverCart": 10
+  },
+  {
+    "counterCategory": 23,
+    "counterProduct": 18,
+    "counterCart": 0,
+    "deliverCart": 10
+  },
+  {
+    "counterCategory": 23,
+    "counterProduct": 18,
+    "counterCart": 1,
+    "deliverCart": 10
+  },
+  {
+    "counterCategory": 23,
+    "counterProduct": 18,
+    "counterCart": 1,
+    "deliverCart": 10
+  },
+  {
+    "counterCategory": 23,
+    "counterProduct": 18,
+    "counterCart": 1,
+    "deliverCart": 10
+  },
+  {
+    "counterCategory": 23,
+    "counterProduct": 18,
+    "counterCart": 2,
+    "deliverCart": 10
+  },
+  {
+    "counterCategory": 23,
+    "counterProduct": 18,
+    "counterCart": 2,
+    "deliverCart": 10
+  },
+  {
+    "counterCategory": 23,
+    "counterProduct": 18,
+    "counterCart": 2,
+    "deliverCart": 10
+  },
+  {
+    "counterCategory": 23,
+    "counterProduct": 18,
+    "counterCart": 2,
+    "deliverCart": 10
+  },
+  {
+    "counterCategory": 23,
+    "counterProduct": 18,
+    "counterCart": 2,
+    "deliverCart": 10
+  },
+  {
+    "counterCategory": 23,
+    "counterProduct": 18,
+    "counterCart": 2,
+    "deliverCart": 10
+  },
+  {
+    "counterCategory": 23,
+    "counterProduct": 18,
+    "counterCart": 3,
+    "deliverCart": 10
+  },
+  {
+    "counterCategory": 23,
+    "counterProduct": 18,
+    "counterCart": 3,
+    "deliverCart": 10
+  },
+  {
+    "counterCategory": 23,
+    "counterProduct": 18,
+    "counterCart": 3,
+    "deliverCart": 10
+  },
+  {
+    "counterCategory": 23,
+    "counterProduct": 18,
+    "counterCart": 3,
+    "deliverCart": 10
+  },
+  {
+    "counterCategory": 23,
+    "counterProduct": 18,
+    "counterCart": 3,
+    "deliverCart": 10
+  },
+  {
+    "counterCategory": 23,
+    "counterProduct": 18,
+    "counterCart": 3,
+    "deliverCart": 10
+  },
+  {
+    "counterCategory": 23,
+    "counterProduct": 18,
+    "counterCart": 3,
+    "deliverCart": 10
+  },
+  {
+    "counterCategory": 23,
+    "counterProduct": 18,
+    "counterCart": 3,
+    "deliverCart": 11
+  },
+  {
+    "counterCategory": 23,
+    "counterProduct": 18,
+    "counterCart": 2,
+    "deliverCart": 11
+  },
+  {
+    "counterCategory": 23,
+    "counterProduct": 18,
+    "counterCart": 2,
+    "deliverCart": 11
+  },
+  {
+    "counterCategory": 23,
+    "counterProduct": 18,
+    "counterCart": 2,
+    "deliverCart": 11
+  },
+  {
+    "counterCategory": 23,
+    "counterProduct": 18,
+    "counterCart": 2,
+    "deliverCart": 11
+  },
+  {
+    "counterCategory": 23,
+    "counterProduct": 18,
+    "counterCart": 2,
+    "deliverCart": 11
+  },
+  {
+    "counterCategory": 23,
+    "counterProduct": 18,
+    "counterCart": 2,
+    "deliverCart": 11
+  },
+  {
+    "counterCategory": 23,
+    "counterProduct": 18,
+    "counterCart": 2,
+    "deliverCart": 11
+  },
+  {
+    "counterCategory": 23,
+    "counterProduct": 18,
+    "counterCart": 0,
+    "deliverCart": 11
+  },
+  {
+    "counterCategory": 23,
+    "counterProduct": 18,
+    "counterCart": 4,
+    "deliverCart": 11
+  },
+  {
+    "counterCategory": 23,
+    "counterProduct": 18,
+    "counterCart": 5,
+    "deliverCart": 11
+  },
+  {
+    "counterCategory": 23,
+    "counterProduct": 18,
+    "counterCart": 5,
+    "deliverCart": 12
+  },
+  {
+    "counterCategory": 23,
+    "counterProduct": 18,
+    "counterCart": 5,
+    "deliverCart": 12
+  },
+  {
+    "counterCategory": 23,
+    "counterProduct": 18,
+    "counterCart": 5,
+    "deliverCart": 13
+  },
+  {
+    "counterCategory": 23,
+    "counterProduct": 18,
+    "counterCart": 0,
+    "deliverCart": 13
+  },
+  {
+    "counterCategory": 23,
+    "counterProduct": 18,
+    "counterCart": 6,
+    "deliverCart": 13
+  },
+  {
+    "counterCategory": 23,
+    "counterProduct": 18,
+    "counterCart": 6,
+    "deliverCart": 14
+  },
+  {
+    "counterCategory": 23,
+    "counterProduct": 18,
+    "counterCart": 0,
+    "deliverCart": 14
+  },
+  {
+    "counterCategory": 23,
+    "counterProduct": 18,
+    "counterCart": 7,
+    "deliverCart": 14
+  },
+  {
+    "counterCategory": 23,
+    "counterProduct": 18,
+    "counterCart": 7,
+    "deliverCart": 15
+  },
+  {
+    "counterCategory": 23,
+    "counterProduct": 18,
+    "counterCart": 0,
+    "deliverCart": 15
+  },
+  {
+    "counterCategory": 23,
+    "counterProduct": 18,
+    "counterCart": 8,
+    "deliverCart": 15
+  },
+  {
+    "counterCategory": 23,
+    "counterProduct": 18,
+    "counterCart": 8,
+    "deliverCart": 15
+  },
+  {
+    "counterCategory": 23,
+    "counterProduct": 18,
+    "counterCart": 8,
+    "deliverCart": 15
+  },
+  {
+    "counterCategory": 23,
+    "counterProduct": 18,
+    "counterCart": 9,
+    "deliverCart": 15
+  },
+  {
+    "counterCategory": 23,
+    "counterProduct": 18,
+    "counterCart": 9,
+    "deliverCart": 16
+  },
+  {
+    "counterCategory": 23,
+    "counterProduct": 18,
+    "counterCart": 0,
+    "deliverCart": 16
+  },
+  {
+    "counterCategory": 23,
+    "counterProduct": 19,
+    "counterCart": 0,
+    "deliverCart": 16
+  },
+  {
+    "counterCategory": 23,
+    "counterProduct": 19,
+    "counterCart": 1,
+    "deliverCart": 16
+  },
+  {
+    "counterCategory": 23,
+    "counterProduct": 19,
+    "counterCart": 1,
+    "deliverCart": 16
+  },
+  {
+    "counterCategory": 23,
+    "counterProduct": 19,
+    "counterCart": 1,
+    "deliverCart": 16
+  },
+  {
+    "counterCategory": 23,
+    "counterProduct": 19,
+    "counterCart": 0,
+    "deliverCart": 16
+  },
+  {
+    "counterCategory": 23,
+    "counterProduct": 19,
+    "counterCart": 2,
+    "deliverCart": 16
+  },
+  {
+    "counterCategory": 23,
+    "counterProduct": 19,
+    "counterCart": 2,
+    "deliverCart": 16
+  },
+  {
+    "counterCategory": 23,
+    "counterProduct": 19,
+    "counterCart": 2,
+    "deliverCart": 17
+  },
+  {
+    "counterCategory": 23,
+    "counterProduct": 19,
+    "counterCart": 0,
+    "deliverCart": 17
+  },
+  {
+    "counterCategory": 24,
+    "counterProduct": 18,
+    "counterCart": 0,
+    "deliverCart": 17
+  },
+  {
+    "counterCategory": 24,
+    "counterProduct": 18,
+    "counterCart": 0,
+    "deliverCart": 17
+  },
+  {
+    "counterCategory": 24,
+    "counterProduct": 20,
+    "counterCart": 0,
+    "deliverCart": 17
+  },
+  {
+    "counterCategory": 24,
+    "counterProduct": 20,
+    "counterCart": 0,
+    "deliverCart": 17
+  },
+  {
+    "counterCategory": 24,
+    "counterProduct": 20,
+    "counterCart": 3,
+    "deliverCart": 17
+  }
+]

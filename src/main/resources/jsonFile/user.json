@@ -1,0 +1,134 @@
+[
+  {
+    "userId": 1256524322,
+    "firstName": "Javokhirbek",
+    "lastName": "Rakhimov",
+    "userName": "Mr_Jokha",
+    "phoneNumber": "+998997834961",
+    "role": [
+      "USER"
+    ],
+    "active": true,
+    "lastOperation": "SHOW_OFFER"
+  },
+  {
+    "userId": 882405034,
+    "firstName": "Javohirbek",
+    "lastName": "Rakhimov",
+    "userName": "Javokhirbek_Rakhimov",
+    "phoneNumber": "+998903611675",
+    "role": [
+      "DELIVER"
+    ],
+    "active": true,
+    "lastOperation": "SHOW_NEW_OFER"
+  },
+  {
+    "userId": 1590943110,
+    "firstName": "Javokhirbek",
+    "lastName": "Rakhimov",
+    "userName": "NO INFORMATION",
+    "phoneNumber": "+998337834961",
+    "role": [
+      "ADMIN"
+    ],
+    "active": true,
+    "lastOperation": "SELECT_MENU"
+  },
+  {
+    "userId": 1411561011,
+    "firstName": "Jöraqulov",
+    "lastName": "Õtkirjon",
+    "userName": "Franchiscomike",
+    "phoneNumber": "+998909741228",
+    "role": [
+      "USER"
+    ],
+    "active": true,
+    "lastOperation": "SELECT_MENU"
+  },
+  {
+    "userId": 773099413,
+    "firstName": "Мамасаидов",
+    "lastName": "NO INFORMATION",
+    "userName": "mirzabek_mamasaidov",
+    "phoneNumber": "+998901281199",
+    "role": [
+      "USER"
+    ],
+    "active": true,
+    "lastOperation": "SELECT_MENU"
+  },
+  {
+    "userId": 797322980,
+    "firstName": "Jamshid",
+    "lastName": "NO INFORMATION",
+    "userName": "JamshidRaimov",
+    "phoneNumber": "+998939991602",
+    "role": [
+      "USER"
+    ],
+    "active": true,
+    "lastOperation": "SELECT_MENU"
+  },
+  {
+    "userId": 1333057163,
+    "firstName": "KAMOLOV G\u0027AYRATJON",
+    "lastName": "NO INFORMATION",
+    "userName": "Tornado_96",
+    "phoneNumber": "+998335869363",
+    "role": [
+      "USER"
+    ],
+    "active": true,
+    "lastOperation": "SHOW_PRODUCT"
+  },
+  {
+    "userId": 550130149,
+    "firstName": "Sanjar",
+    "lastName": "NO INFORMATION",
+    "userName": "Sanjarbek2979",
+    "phoneNumber": "+998973124699",
+    "role": [
+      "USER"
+    ],
+    "active": true,
+    "lastOperation": "CHAGE_USER_OPERATION"
+  },
+  {
+    "userId": 1158125023,
+    "firstName": "Sirojiddin ibn Rasuljon ibn Ismoil",
+    "lastName": "NO INFORMATION",
+    "userName": "ibn_Rasuljon",
+    "phoneNumber": "+998330540905",
+    "role": [
+      "DELIVER"
+    ],
+    "active": true,
+    "lastOperation": "SHOW_NEW_OFER"
+  },
+  {
+    "userId": 1118602444,
+    "firstName": "Sarvar",
+    "lastName": "Sultonov",
+    "userName": "Sv_4888_19",
+    "phoneNumber": "+998997904888",
+    "role": [
+      "USER"
+    ],
+    "active": false,
+    "lastOperation": "SHOW_CATEGORY"
+  },
+  {
+    "userId": 1258550420,
+    "firstName": "ᵏʰᵒˡᵐᵃᵏʰᵐᵃᵗᵒᵛ-ᵃ",
+    "lastName": "NO INFORMATION",
+    "userName": "Kholmakhmatov_A",
+    "phoneNumber": "+998975873700",
+    "role": [
+      "USER"
+    ],
+    "active": true,
+    "lastOperation": "SELECT_MENU"
+  }
+]

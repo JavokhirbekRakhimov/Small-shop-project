@@ -1,0 +1,67 @@
+[
+  {
+    "categoryId": 1,
+    "categoryName": "📱 Phone",
+    "parentCategoryId": 0
+  },
+  {
+    "categoryId": 2,
+    "categoryName": "💻  Computer",
+    "parentCategoryId": 0
+  },
+  {
+    "categoryId": 4,
+    "categoryName": "✅  Samsung",
+    "parentCategoryId": 1
+  },
+  {
+    "categoryId": 5,
+    "categoryName": "✅  iPhone",
+    "parentCategoryId": 1
+  },
+  {
+    "categoryId": 6,
+    "categoryName": "✅  Samsung",
+    "parentCategoryId": 3
+  },
+  {
+    "categoryId": 7,
+    "categoryName": "✅  Acer",
+    "parentCategoryId": 2
+  },
+  {
+    "categoryId": 8,
+    "categoryName": "✅  Lenovo",
+    "parentCategoryId": 2
+  },
+  {
+    "categoryId": 17,
+    "categoryName": "📺 TV",
+    "parentCategoryId": 0
+  },
+  {
+    "categoryId": 18,
+    "categoryName": "LG",
+    "parentCategoryId": 17
+  },
+  {
+    "categoryId": 19,
+    "categoryName": "Samsung (Tv)",
+    "parentCategoryId": 17
+  },
+  {
+    "categoryId": 20,
+    "categoryName": "Naushniklar",
+    "parentCategoryId": 0
+  },
+  {
+    "categoryId": 21,
+    "categoryName": "SIMLI",
+    "parentCategoryId": 20
+  },
+  {
+    "categoryId": 24,
+    "categoryName": "Oshxona jihozlari",
+    "parentCategoryId": 0
+  }
+]

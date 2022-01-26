@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1590943110,
+    "country": "Uzbekistan",
+    "region": "Tashkent",
+    "district": "Chilanzar",
+    "street": "Fidokor",
+    "homeNumber": "4",
+    "geo": {
+      "latitude": "41.275959",
+      "longitude": "69.186882"
+    }
+  },
+  {
+    "id": 1275823142,
+    "country": "NO INFORMATION",
+    "region": "NO INFORMATION",
+    "district": "NO INFORMATION",
+    "street": "NO INFORMATION",
+    "homeNumber": "NO INFORMATION",
+    "geo": {
+      "latitude": "41.275882",
+      "longitude": "69.186953"
+    }
+  },
+  {
+    "id": 2140119970,
+    "country": "NO INFORMATION",
+    "region": "NO INFORMATION",
+    "district": "NO INFORMATION",
+    "street": "NO INFORMATION",
+    "homeNumber": "NO INFORMATION",
+    "geo": {
+      "latitude": "41.275967",
+      "longitude": "69.18691"
+    }
+  },
+  {
+    "id": 1159259002,
+    "country": "NO INFORMATION",
+    "region": "NO INFORMATION",
+    "district": "NO INFORMATION",
+    "street": "NO INFORMATION",
+    "homeNumber": "NO INFORMATION",
+    "geo": {
+      "latitude": "41.408904",
+      "longitude": "69.258136"
+    }
+  },
+  {
+    "id": 1565448525,
+    "country": "NO INFORMATION",
+    "region": "NO INFORMATION",
+    "district": "NO INFORMATION",
+    "street": "NO INFORMATION",
+    "homeNumber": "NO INFORMATION",
+    "geo": {
+      "latitude": "41.285549",
+      "longitude": "69.204754"
+    }
+  },
+  {
+    "id": 1158125023,
+    "country": "NO INFORMATION",
+    "region": "NO INFORMATION",
+    "district": "NO INFORMATION",
+    "street": "NO INFORMATION",
+    "homeNumber": "NO INFORMATION",
+    "geo": {
+      "latitude": "41.326439",
+      "longitude": "69.228558"
+    }
+  },
+  {
+    "id": 1411561011,
+    "country": "NO INFORMATION",
+    "region": "NO INFORMATION",
+    "district": "NO INFORMATION",
+    "street": "NO INFORMATION",
+    "homeNumber": "NO INFORMATION",
+    "geo": {
+      "latitude": "41.326684",
+      "longitude": "69.228822"
+    }
+  },
+  {
+    "id": 857023285,
+    "country": "NO INFORMATION",
+    "region": "NO INFORMATION",
+    "district": "NO INFORMATION",
+    "street": "NO INFORMATION",
+    "homeNumber": "NO INFORMATION",
+    "geo": {
+      "latitude": "41.280866",
+      "longitude": "69.194211"
+    }
+  },
+  {
+    "id": 1813855034,
+    "country": "NO INFORMATION",
+    "region": "NO INFORMATION",
+    "district": "NO INFORMATION",
+    "street": "NO INFORMATION",
+    "homeNumber": "NO INFORMATION",
+    "geo": {
+      "latitude": "41.326431",
+      "longitude": "69.22853"
+    }
+  },
+  {
+    "id": 797322980,
+    "country": "NO INFORMATION",
+    "region": "NO INFORMATION",
+    "district": "NO INFORMATION",
+    "street": "NO INFORMATION",
+    "homeNumber": "NO INFORMATION",
+    "geo": {
+      "latitude": "41.32646",
+      "longitude": "69.228547"
+    }
+  },
+  {
+    "id": 550130149,
+    "country": "NO INFORMATION",
+    "region": "NO INFORMATION",
+    "district": "NO INFORMATION",
+    "street": "NO INFORMATION",
+    "homeNumber": "NO INFORMATION",
+    "geo": {
+      "latitude": "41.326447",
+      "longitude": "69.228586"
+    }
+  },
+  {
+    "id": 1118602444,
+    "country": "NO INFORMATION",
+    "region": "NO INFORMATION",
+    "district": "NO INFORMATION",
+    "street": "NO INFORMATION",
+    "homeNumber": "NO INFORMATION",
+    "geo": {
+      "latitude": "41.326447",
+      "longitude": "69.228586"
+    }
+  },
+  {
+    "id": 773099413,
+    "country": "NO INFORMATION",
+    "region": "NO INFORMATION",
+    "district": "NO INFORMATION",
+    "street": "NO INFORMATION",
+    "homeNumber": "NO INFORMATION",
+    "geo": {
+      "latitude": "41.291691",
+      "longitude": "69.19245"
+    }
+  },
+  {
+    "id": 1258550420,
+    "country": "NO INFORMATION",
+    "region": "NO INFORMATION",
+    "district": "NO INFORMATION",
+    "street": "NO INFORMATION",
+    "homeNumber": "NO INFORMATION",
+    "geo": {
+      "latitude": "41.326447",
+      "longitude": "69.228586"
+    }
+  },
+  {
+    "id": 1256524322,
+    "country": "NO INFORMATION",
+    "region": "NO INFORMATION",
+    "district": "NO INFORMATION",
+    "street": "NO INFORMATION",
+    "homeNumber": "NO INFORMATION",
+    "geo": {
+      "latitude": "41.326447",
+      "longitude": "69.228586"
+    }
+  }
+]

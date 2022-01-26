@@ -1,0 +1,138 @@
+[
+  {
+    "productId": 2,
+    "productName": "Samsung Galaxy A03s 4\\64ГБ Black",
+    "productPrice": 1834000.0,
+    "categoryId": 4,
+    "descriptionId": 0,
+    "photoURL": "src/main/resources/image/product/Samsung Galaxy A03s 464ГБ Black.jpg"
+  },
+  {
+    "productId": 3,
+    "productName": "Samsung Galaxy A32 4\\64GB Awesome Black",
+    "productPrice": 3052000.0,
+    "categoryId": 4,
+    "descriptionId": 0,
+    "photoURL": "src\\main\\resources\\image\\product\\1256524322_Samsung_Galaxy_A32_5G_64GB_Awesome_Black_8806090963049_26032020.jpg"
+  },
+  {
+    "productId": 4,
+    "productName": "Samsung Galaxy A12 4\\64GB, A125, Black",
+    "productPrice": 2078000.0,
+    "categoryId": 4,
+    "descriptionId": 0,
+    "photoURL": "src/main/resources/image/product/defaultImage.jpg1256524322Samsung Galaxy_A12 464GB_A125_Black.jpg"
+  },
+  {
+    "productId": 5,
+    "productName": "Apple iPhone 12 128GB",
+    "productPrice": 1.0301E7,
+    "categoryId": 5,
+    "descriptionId": 0,
+    "photoURL": "src/main/resources/image/product/defaultImage.jpg1256524322Apple iPhone 12 128GB.jpg"
+  },
+  {
+    "productId": 6,
+    "productName": "Apple iPhone 12 Pro 128ГБ",
+    "productPrice": 1.2535E7,
+    "categoryId": 5,
+    "descriptionId": 0,
+    "photoURL": "src/main/resources/image/product/defaultImage.jpg1256524322Apple iPhone 12 Pro 128ГБ.jpg"
+  },
+  {
+    "productId": 7,
+    "productName": "Acer Nitro 7 i7-10750",
+    "productPrice": 1.635E7,
+    "categoryId": 7,
+    "descriptionId": 0,
+    "photoURL": "src/main/resources/image/product/defaultImage.jpg1256524322Acer AN715-52-79EP i7-10750.jpg"
+  },
+  {
+    "productId": 8,
+    "productName": "Ноутбук Acer Nitro-5 I7-10750",
+    "productPrice": 1.2799E7,
+    "categoryId": 7,
+    "descriptionId": 0,
+    "photoURL": "src/main/resources/image/product/defaultImage.jpg1256524322Ноутбук Acer Nitro-5 I7-10750.jpg"
+  },
+  {
+    "productId": 9,
+    "productName": "IdeaPad Flex 5 (15) - Graphite Grey",
+    "productPrice": 9045000.0,
+    "categoryId": 8,
+    "descriptionId": 0,
+    "photoURL": "src/main/resources/image/product/defaultImage.jpg1256524322IdeaPad Flex 5 (15) - Graphite Grey.jpg"
+  },
+  {
+    "productId": 10,
+    "productName": "Samsung 32N4000 HD TV",
+    "productPrice": 3107000.0,
+    "categoryId": 6,
+    "descriptionId": 0,
+    "photoURL": "src\\main\\resources\\image\\product\\1256524322Si6mO7Ee7FL22Cel3SjYRvF2HNN9yTl0GTYQEZaNMlPTroNViMpvqjknzBtn.jpg"
+  },
+  {
+    "productId": 12,
+    "productName": "LG 43UP77006 Smart",
+    "productPrice": 5875000.0,
+    "categoryId": 18,
+    "descriptionId": 0,
+    "photoURL": "src\\main\\resources\\image\\product\\1256524322download.jpg"
+  },
+  {
+    "productId": 13,
+    "productName": "Apple Iphone 13 Pro  256 GB",
+    "productPrice": 1.199E7,
+    "categoryId": 5,
+    "descriptionId": 0,
+    "photoURL": "src\\main\\resources\\image\\product\\nulliphone-13-pro-silver-select.png"
+  },
+  {
+    "productId": 14,
+    "productName": "Televizor Samsung UE50AU9000UXCE",
+    "productPrice": 7957000.0,
+    "categoryId": 19,
+    "descriptionId": 0,
+    "photoURL": "src\\main\\resources\\image\\product\\null209655.png"
+  },
+  {
+    "productId": 15,
+    "productName": "Acer A315 Celeron N4000 4GB\\1TB 15.6",
+    "productPrice": 3924000.0,
+    "categoryId": 7,
+    "descriptionId": 0,
+    "photoURL": "src\\main\\resources\\image\\product\\null2020-12-22-11-54-28-663705-fa45bc921d6bf6eb3eb4738dd794b082.jpg"
+  },
+  {
+    "productId": 16,
+    "productName": "Lenovo IdeaPad Gaming 3i Core i7 10th Gen",
+    "productPrice": 1.133E7,
+    "categoryId": 8,
+    "descriptionId": 0,
+    "photoURL": "src\\main\\resources\\image\\product\\nullLenovoIdeaPadGaming3i-15__1_.jpg"
+  },
+  {
+    "productId": 17,
+    "productName": "Samsung 49 Inch LED Ultra HD (4K) TV (7 Series 49NU7100)",
+    "productPrice": 6459000.0,
+    "categoryId": 19,
+    "descriptionId": 0,
+    "photoURL": "src\\main\\resources\\image\\product\\BQACAgIAAxkBAAIQCWHR7XpHx4qbkXneeelLA0fOZiQUAAJDEwACZW-RSph5JLiO0erBIwQSamsung 49 Inch LED Ultra HD (4K) TV (7 Series 49NU7100).jpg"
+  },
+  {
+    "productId": 18,
+    "productName": "TR 46",
+    "productPrice": 27000.0,
+    "categoryId": 21,
+    "descriptionId": 0,
+    "photoURL": "src/main/resources/image/defaultImage.jpg"
+  },
+  {
+    "productId": 20,
+    "productName": "Qozon",
+    "productPrice": 60000.0,
+    "categoryId": 24,
+    "descriptionId": 0,
+    "photoURL": "src/main/resources/image/defaultImage.jpg"
+  }
+]

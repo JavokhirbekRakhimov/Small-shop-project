@@ -1,0 +1,714 @@
+[
+  {
+    "cardId": 1590943110,
+    "Id": 1,
+    "user": {
+      "userId": 1590943110,
+      "firstName": "Javokhirbek",
+      "lastName": "Rakhimov",
+      "userName": "NO INFORMATION",
+      "phoneNumber": "+998337834961",
+      "role": [
+        "USER"
+      ],
+      "active": true,
+      "lastOperation": "SEND_HOMENUMBER"
+    },
+    "cartProduct": [
+      {
+        "cardId": 1590943110,
+        "Id": 2,
+        "productId": 5,
+        "categoryId": 5,
+        "productAmount": 1,
+        "descriptionId": 0
+      },
+      {
+        "cardId": 1590943110,
+        "Id": 3,
+        "productId": 9,
+        "categoryId": 8,
+        "productAmount": 1,
+        "descriptionId": 0
+      }
+    ],
+    "address": {
+      "id": 1590943110,
+      "country": "Uzbekistan",
+      "region": "Tashkent",
+      "district": "Uchtepa",
+      "street": "Shirin",
+      "homeNumber": "38/54",
+      "geo": {
+        "latitude": "41.275959",
+        "longitude": "69.186882"
+      }
+    },
+    "creatAt": "Dec 30, 2021, 9:57:24 PM",
+    "deliveredToUser": true
+  },
+  {
+    "cardId": 1590943110,
+    "Id": 2,
+    "user": {
+      "userId": 1590943110,
+      "firstName": "Javokhirbek",
+      "lastName": "Rakhimov",
+      "userName": "NO INFORMATION",
+      "phoneNumber": "+998337834961",
+      "role": [
+        "USER"
+      ],
+      "active": true,
+      "lastOperation": "SEND_HOMENUMBER"
+    },
+    "cartProduct": [
+      {
+        "cardId": 1590943110,
+        "Id": 2,
+        "productId": 9,
+        "categoryId": 8,
+        "productAmount": 2,
+        "descriptionId": 0
+      }
+    ],
+    "address": {
+      "id": 1590943110,
+      "country": "Uzbekistan",
+      "region": "Fergana",
+      "district": "Uzbekistan",
+      "street": "Soy",
+      "homeNumber": "181",
+      "geo": {
+        "latitude": "41.275904",
+        "longitude": "69.186942"
+      }
+    },
+    "creatAt": "Jan 1, 2022, 9:04:57 AM",
+    "deliveredToUser": true
+  },
+  {
+    "cardId": 1590943110,
+    "Id": 3,
+    "user": {
+      "userId": 1590943110,
+      "firstName": "Javokhirbek",
+      "lastName": "Rakhimov",
+      "userName": "NO INFORMATION",
+      "phoneNumber": "+998337834961",
+      "role": [
+        "USER"
+      ],
+      "active": true,
+      "lastOperation": "SEND_HOMENUMBER"
+    },
+    "cartProduct": [
+      {
+        "cardId": 1590943110,
+        "Id": 2,
+        "productId": 8,
+        "categoryId": 7,
+        "productAmount": 2,
+        "descriptionId": 0
+      }
+    ],
+    "address": {
+      "id": 1590943110,
+      "country": "Uzbekistan",
+      "region": "Tashkent",
+      "district": "Uchtepa",
+      "street": "Shirin",
+      "homeNumber": "38/54",
+      "geo": {
+        "latitude": "41.275904",
+        "longitude": "69.186942"
+      }
+    },
+    "creatAt": "Jan 1, 2022, 9:25:00 AM",
+    "deliveredToUser": true
+  },
+  {
+    "cardId": 1590943110,
+    "Id": 4,
+    "user": {
+      "userId": 1590943110,
+      "firstName": "Javokhirbek",
+      "lastName": "Rakhimov",
+      "userName": "NO INFORMATION",
+      "phoneNumber": "+998337834961",
+      "role": [
+        "USER"
+      ],
+      "active": true,
+      "lastOperation": "SEND_HOMENUMBER"
+    },
+    "cartProduct": [
+      {
+        "cardId": 1590943110,
+        "Id": 1,
+        "productId": 3,
+        "categoryId": 4,
+        "productAmount": 2,
+        "descriptionId": 0
+      }
+    ],
+    "address": {
+      "id": 1590943110,
+      "country": "Canada",
+      "region": "Toronto",
+      "district": "Old Town",
+      "street": "Queen",
+      "homeNumber": "65/2",
+      "geo": {
+        "latitude": "41.275959",
+        "longitude": "69.186882"
+      }
+    },
+    "creatAt": "Jan 1, 2022, 6:48:32 PM",
+    "deliveredToUser": true
+  },
+  {
+    "cardId": 1275823142,
+    "Id": 5,
+    "user": {
+      "userId": 1275823142,
+      "firstName": "Abdurohman Rahimov",
+      "lastName": "NO INFORMATION",
+      "userName": "NO INFORMATION",
+      "phoneNumber": "+998997844961",
+      "role": [
+        "USER"
+      ],
+      "active": true,
+      "lastOperation": "SEND_HOMENUMBER"
+    },
+    "cartProduct": [
+      {
+        "cardId": 1275823142,
+        "Id": 2,
+        "productId": 9,
+        "categoryId": 8,
+        "productAmount": 2,
+        "descriptionId": 0
+      }
+    ],
+    "address": {
+      "id": 1590943110,
+      "country": "Jcucyccug",
+      "region": "Iggihih",
+      "district": "Jvibivfgggkgjvuvugugugug",
+      "street": "Jvjvjvuv",
+      "homeNumber": "Ivivuviviv",
+      "geo": {
+        "latitude": "41.275959",
+        "longitude": "69.186882"
+      }
+    },
+    "creatAt": "Jan 2, 2022, 11:55:36 AM",
+    "deliveredToUser": true
+  },
+  {
+    "cardId": 2140119970,
+    "Id": 6,
+    "user": {
+      "userId": 2140119970,
+      "firstName": "Abdurahmon",
+      "lastName": "Rahimov",
+      "userName": "Abdurahmon_Rahimov1",
+      "phoneNumber": "998337844961",
+      "role": [
+        "USER"
+      ],
+      "active": true,
+      "lastOperation": "SELECT_MENU"
+    },
+    "cartProduct": [
+      {
+        "cardId": 2140119970,
+        "Id": 5,
+        "productId": 14,
+        "categoryId": 19,
+        "productAmount": 11,
+        "descriptionId": 0
+      }
+    ],
+    "address": {
+      "id": 1590943110,
+      "country": "Namangan",
+      "region": "Kakajaa",
+      "district": "Turakurgan",
+      "street": "Turakurgan",
+      "homeNumber": "14",
+      "geo": {
+        "latitude": "41.275959",
+        "longitude": "69.186882"
+      }
+    },
+    "creatAt": "Jan 2, 2022, 10:28:40 PM",
+    "deliveredToUser": true
+  },
+  {
+    "cardId": 1159259002,
+    "Id": 7,
+    "user": {
+      "userId": 1159259002,
+      "firstName": "Egamberdi",
+      "lastName": "NO INFORMATION",
+      "userName": "hakker_2002_2020",
+      "phoneNumber": "+998935366686",
+      "role": [
+        "USER"
+      ],
+      "active": true,
+      "lastOperation": "SELECT_MENU"
+    },
+    "cartProduct": [
+      {
+        "cardId": 1159259002,
+        "Id": 7,
+        "productId": 15,
+        "categoryId": 7,
+        "productAmount": 8,
+        "descriptionId": 0
+      }
+    ],
+    "address": {
+      "id": 1590943110,
+      "country": "Namangan",
+      "region": "Kakajaa",
+      "district": "Turakurgan",
+      "street": "Turakurgan",
+      "homeNumber": "14",
+      "geo": {
+        "latitude": "41.275959",
+        "longitude": "69.186882"
+      }
+    },
+    "creatAt": "Jan 2, 2022, 10:32:34 PM",
+    "deliveredToUser": false
+  },
+  {
+    "cardId": 1158125023,
+    "Id": 8,
+    "user": {
+      "userId": 1158125023,
+      "firstName": "Sirojiddin ibn Rasuljon ibn Ismoil",
+      "lastName": "NO INFORMATION",
+      "userName": "ibn_Rasuljon",
+      "phoneNumber": "+998330540905",
+      "role": [
+        "USER"
+      ],
+      "active": true,
+      "lastOperation": "SEND_COUNTRY"
+    },
+    "cartProduct": [
+      {
+        "cardId": 1158125023,
+        "Id": 10,
+        "productId": 3,
+        "categoryId": 4,
+        "productAmount": 2,
+        "descriptionId": 0
+      },
+      {
+        "cardId": 1158125023,
+        "Id": 14,
+        "productId": 16,
+        "categoryId": 8,
+        "productAmount": 5,
+        "descriptionId": 0
+      },
+      {
+        "cardId": 1158125023,
+        "Id": 16,
+        "productId": 13,
+        "categoryId": 5,
+        "productAmount": 6,
+        "descriptionId": 0
+      }
+    ],
+    "address": {
+      "id": 1590943110,
+      "country": "Namangan",
+      "region": "Kakajaa",
+      "district": "Turakurgan",
+      "street": "Turakurgan",
+      "homeNumber": "14",
+      "geo": {
+        "latitude": "41.275959",
+        "longitude": "69.186882"
+      }
+    },
+    "creatAt": "Jan 2, 2022, 10:39:45 PM",
+    "deliveredToUser": false
+  },
+  {
+    "cardId": 1813855034,
+    "Id": 9,
+    "user": {
+      "userId": 1813855034,
+      "firstName": "Mirkomil",
+      "lastName": "Ablayev",
+      "userName": "mirkomil_ablayev",
+      "phoneNumber": "+998991337742",
+      "role": [
+        "USER"
+      ],
+      "active": true,
+      "lastOperation": "SELECT_MENU"
+    },
+    "cartProduct": [
+      {
+        "cardId": 1813855034,
+        "Id": 25,
+        "productId": 3,
+        "categoryId": 4,
+        "productAmount": 2,
+        "descriptionId": 0
+      }
+    ],
+    "address": {
+      "id": 1590943110,
+      "country": "Uzbekistan",
+      "region": "Samarqand",
+      "district": "Ishtixon",
+      "street": "Jwjdjfjf",
+      "homeNumber": "Jsjdjd",
+      "geo": {
+        "latitude": "41.275959",
+        "longitude": "69.186882"
+      }
+    },
+    "creatAt": "Jan 3, 2022, 8:08:22 AM",
+    "deliveredToUser": true
+  },
+  {
+    "cardId": 1411561011,
+    "Id": 10,
+    "user": {
+      "userId": 1411561011,
+      "firstName": "Jöraqulov",
+      "lastName": "Õtkirjon",
+      "userName": "Franchiscomike",
+      "phoneNumber": "+998909741228",
+      "role": [
+        "USER"
+      ],
+      "active": true,
+      "lastOperation": "SEND_HOMENUMBER"
+    },
+    "cartProduct": [
+      {
+        "cardId": 1411561011,
+        "Id": 25,
+        "productId": 9,
+        "categoryId": 8,
+        "productAmount": 8,
+        "descriptionId": 0
+      }
+    ],
+    "address": {
+      "id": 1590943110,
+      "country": "Hgu",
+      "region": "Hfdd",
+      "district": "Gfft",
+      "street": "Gffr",
+      "homeNumber": "Gffd",
+      "geo": {
+        "latitude": "41.275959",
+        "longitude": "69.186882"
+      }
+    },
+    "creatAt": "Jan 3, 2022, 8:26:50 AM",
+    "deliveredToUser": false
+  },
+  {
+    "cardId": 1158125023,
+    "Id": 11,
+    "user": {
+      "userId": 1158125023,
+      "firstName": "Sirojiddin ibn Rasuljon ibn Ismoil",
+      "lastName": "NO INFORMATION",
+      "userName": "ibn_Rasuljon",
+      "phoneNumber": "998330540905",
+      "role": [
+        "DELIVER"
+      ],
+      "active": true,
+      "lastOperation": "SHOW_NEW_OFER"
+    },
+    "cartProduct": [
+      {
+        "cardId": 1158125023,
+        "Id": 3,
+        "productId": 6,
+        "categoryId": 5,
+        "productAmount": 2,
+        "descriptionId": 0
+      }
+    ],
+    "address": {
+      "id": 1590943110,
+      "country": "Shayhontohir t Beruniy ko\u0027chasi Pdp Academy",
+      "region": "Shayhontohir t Beruniy ko\u0027chasi Pdp Academy",
+      "district": "Shayhontohir t Beruniy ko\u0027chasi Pdp Academy",
+      "street": "Shayhontohir t Beruniy ko\u0027chasi Pdp Academy",
+      "homeNumber": "Shayhontohir t Beruniy ko\u0027chasi Pdp Academy",
+      "geo": {
+        "latitude": "41.275959",
+        "longitude": "69.186882"
+      }
+    },
+    "creatAt": "Jan 9, 2022, 9:37:36 AM",
+    "deliveredToUser": true
+  },
+  {
+    "cardId": 550130149,
+    "Id": 12,
+    "user": {
+      "userId": 550130149,
+      "firstName": "Sanjar",
+      "lastName": "NO INFORMATION",
+      "userName": "Sanjarbek2979",
+      "phoneNumber": "998973124699",
+      "role": [
+        "ADMIN"
+      ],
+      "active": true,
+      "lastOperation": "OPERATION_WITH_PRODUCT"
+    },
+    "cartProduct": [
+      {
+        "cardId": 550130149,
+        "Id": 4,
+        "productId": 13,
+        "categoryId": 5,
+        "productAmount": 1,
+        "descriptionId": 0
+      }
+    ],
+    "address": {
+      "id": 1590943110,
+      "country": "Shayhontohir t Beruniy ko\u0027chasi Pdp Academy",
+      "region": "Shayhontohir t Beruniy ko\u0027chasi Pdp Academy",
+      "district": "Shayhontohir t Beruniy ko\u0027chasi Pdp Academy",
+      "street": "Shayhontohir t Beruniy ko\u0027chasi Pdp Academy",
+      "homeNumber": "Shayhontohir t Beruniy ko\u0027chasi Pdp Academy",
+      "geo": {
+        "latitude": "41.275959",
+        "longitude": "69.186882"
+      }
+    },
+    "creatAt": "Jan 9, 2022, 9:39:27 AM",
+    "deliveredToUser": false
+  },
+  {
+    "cardId": 797322980,
+    "Id": 13,
+    "user": {
+      "userId": 797322980,
+      "firstName": "Jamshid",
+      "lastName": "NO INFORMATION",
+      "userName": "JamshidRaimov",
+      "phoneNumber": "+998939991602",
+      "role": [
+        "USER"
+      ],
+      "active": true,
+      "lastOperation": "SELECT_MENU"
+    },
+    "cartProduct": [
+      {
+        "cardId": 797322980,
+        "Id": 5,
+        "productId": 3,
+        "categoryId": 4,
+        "productAmount": 1,
+        "descriptionId": 0
+      }
+    ],
+    "address": {
+      "id": 1590943110,
+      "country": "Shayhontohir t Beruniy ko\u0027chasi Pdp Academy",
+      "region": "Shayhontohir t Beruniy ko\u0027chasi Pdp Academy",
+      "district": "Shayhontohir t Beruniy ko\u0027chasi Pdp Academy",
+      "street": "Shayhontohir t Beruniy ko\u0027chasi Pdp Academy",
+      "homeNumber": "Shayhontohir t Beruniy ko\u0027chasi Pdp Academy",
+      "geo": {
+        "latitude": "41.275959",
+        "longitude": "69.186882"
+      }
+    },
+    "creatAt": "Jan 9, 2022, 9:42:26 AM",
+    "deliveredToUser": false
+  },
+  {
+    "cardId": 1118602444,
+    "Id": 14,
+    "user": {
+      "userId": 1118602444,
+      "firstName": "Sarvar",
+      "lastName": "Sultonov",
+      "userName": "Sv_4888_19",
+      "phoneNumber": "+998997904888",
+      "role": [
+        "USER"
+      ],
+      "active": false,
+      "lastOperation": "SHOW_CATEGORY"
+    },
+    "cartProduct": [
+      {
+        "cardId": 1118602444,
+        "Id": 6,
+        "productId": 13,
+        "categoryId": 5,
+        "productAmount": 3,
+        "descriptionId": 0
+      }
+    ],
+    "address": {
+      "id": 1590943110,
+      "country": "Shayhontohir t Beruniy ko\u0027chasi Pdp Academy",
+      "region": "Shayhontohir t Beruniy ko\u0027chasi Pdp Academy",
+      "district": "Shayhontohir t Beruniy ko\u0027chasi Pdp Academy",
+      "street": "Shayhontohir t Beruniy ko\u0027chasi Pdp Academy",
+      "homeNumber": "Shayhontohir t Beruniy ko\u0027chasi Pdp Academy",
+      "geo": {
+        "latitude": "41.275959",
+        "longitude": "69.186882"
+      }
+    },
+    "creatAt": "Jan 9, 2022, 9:44:30 AM",
+    "deliveredToUser": false
+  },
+  {
+    "cardId": 773099413,
+    "Id": 15,
+    "user": {
+      "userId": 773099413,
+      "firstName": "Мамасаидов",
+      "lastName": "NO INFORMATION",
+      "userName": "mirzabek_mamasaidov",
+      "phoneNumber": "+998901281199",
+      "role": [
+        "USER"
+      ],
+      "active": true,
+      "lastOperation": "SELECT_MENU"
+    },
+    "cartProduct": [
+      {
+        "cardId": 773099413,
+        "Id": 7,
+        "productId": 7,
+        "categoryId": 7,
+        "productAmount": 1,
+        "descriptionId": 0
+      }
+    ],
+    "address": {
+      "id": 1590943110,
+      "country": "Shayhontohir t Beruniy ko\u0027chasi Pdp Academy",
+      "region": "Shayhontohir t Beruniy ko\u0027chasi Pdp Academy",
+      "district": "Shayhontohir t Beruniy ko\u0027chasi Pdp Academy",
+      "street": "Shayhontohir t Beruniy ko\u0027chasi Pdp Academy",
+      "homeNumber": "Shayhontohir t Beruniy ko\u0027chasi Pdp Academy",
+      "geo": {
+        "latitude": "41.275959",
+        "longitude": "69.186882"
+      }
+    },
+    "creatAt": "Jan 9, 2022, 9:46:02 AM",
+    "deliveredToUser": false
+  },
+  {
+    "cardId": 1258550420,
+    "Id": 16,
+    "user": {
+      "userId": 1258550420,
+      "firstName": "ᵏʰᵒˡᵐᵃᵏʰᵐᵃᵗᵒᵛ-ᵃ",
+      "lastName": "NO INFORMATION",
+      "userName": "Kholmakhmatov_A",
+      "phoneNumber": "+998975873700",
+      "role": [
+        "USER"
+      ],
+      "active": true,
+      "lastOperation": "SEND_HOMENUMBER"
+    },
+    "cartProduct": [
+      {
+        "cardId": 1258550420,
+        "Id": 8,
+        "productId": 4,
+        "categoryId": 4,
+        "productAmount": 7,
+        "descriptionId": 0
+      },
+      {
+        "cardId": 1258550420,
+        "Id": 9,
+        "productId": 7,
+        "categoryId": 7,
+        "productAmount": 5,
+        "descriptionId": 0
+      }
+    ],
+    "address": {
+      "id": 1590943110,
+      "country": "Shayhontohir t Beruniy ko\u0027chasi Pdp Academy",
+      "region": "Shayhontohir t Beruniy ko\u0027chasi Pdp Academy",
+      "district": "Shayhontohir t Beruniy ko\u0027chasi Pdp Academy",
+      "street": "Shayhontohir t Beruniy ko\u0027chasi Pdp Academy",
+      "homeNumber": "Shayhontohir t Beruniy ko\u0027chasi Pdp Academy",
+      "geo": {
+        "latitude": "41.275959",
+        "longitude": "69.186882"
+      }
+    },
+    "creatAt": "Jan 9, 2022, 9:49:13 AM",
+    "deliveredToUser": false
+  },
+  {
+    "cardId": 1256524322,
+    "Id": 17,
+    "user": {
+      "userId": 1256524322,
+      "firstName": "Javokhirbek",
+      "lastName": "Rakhimov",
+      "userName": "Mr_Jokha",
+      "phoneNumber": "+998997834961",
+      "role": [
+        "USER"
+      ],
+      "active": true,
+      "lastOperation": "SHOW_OFFER"
+    },
+    "cartProduct": [
+      {
+        "cardId": 1256524322,
+        "Id": 2,
+        "productId": 7,
+        "categoryId": 7,
+        "productAmount": 6,
+        "descriptionId": 0
+      }
+    ],
+    "address": {
+      "id": 1590943110,
+      "country": "Uzbekistan",
+      "region": "Fergana",
+      "district": "Uzbekistan",
+      "street": "Soy",
+      "homeNumber": "118",
+      "geo": {
+        "latitude": "41.275959",
+        "longitude": "69.186882"
+      }
+    },
+    "creatAt": "Jan 9, 2022, 12:33:41 PM",
+    "deliveredToUser": true
+  }
+]
